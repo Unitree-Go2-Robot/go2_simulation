@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <description>TODO: Package description</description>
   <maintainer email="juancarlos.serrano@urjc.es">Juan Carlos Manzanares Serrano</maintainer>
-  <license>BSD 3-Clause License</license>
+  <license>Apache License, Version 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
